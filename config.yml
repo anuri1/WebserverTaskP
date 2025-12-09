@@ -1,0 +1,7 @@
+webserver:
+  host: '127.0.0.1'
+  port : 8888
+
+filedescriptorcache:
+  size: 100
+  ttl: 60
