@@ -184,11 +184,4 @@ file_descriptor_cache = FileDescriptorCache(
 )
 parser = HttpRequestParser()
 
-print(data)
-
 asyncio.run(main())
-
-
-# Виртуальные серверы
-# Конфигурация через файл конфигураций
-# Proxy pass
